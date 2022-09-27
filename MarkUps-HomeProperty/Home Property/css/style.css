@@ -136,6 +136,7 @@ img {
 ====================*/
 
 #aa-header {
+  color: #000;
   border-bottom: 1px solid #fff;
   left: 0;
   position: absolute;
@@ -570,7 +571,7 @@ img {
   display: inline;
   float: left;
   margin-top: -100px;
-  min-height: 200px;
+  min-height: 100px;
   padding: 25px 20px;
   position: relative;
   width: 100%;
